@@ -1,7 +1,7 @@
 - 👋 Hi, I’m mahdi rahmani
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on data science projects, competitions
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning web development
+- 💞️ I’m looking to collaborate on web development projects, competitions
 - 📫 How to reach me rahmanimahdi16@gmail.com
 
 <!---
